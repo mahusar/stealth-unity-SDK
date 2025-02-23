@@ -5,7 +5,7 @@ Stealth (XST) SDK & Wallet UI for Unity engine, providing seamless integration w
 - Async JSON-RPC calls (getbalance, getnewaddress, sendtoaddress, etc.)
 - Can be used in any Unity project
 ### Installation
-- Option 1: Import StealthUnitySDK.package into your Unity project
+- Option 1: Import StealthUnitySDK.unitypackage into your Unity project
 - Option 2: Clone this repository and add it to your Unity project
 ### Usage
 - Add the RpcHandler script to a GameObject in your Unity scene
