@@ -35,4 +35,4 @@ Stealth (XST) SDK & Wallet UI for Unity engine, providing seamless integration w
 
 ![Alt text](Assets/StealthUnity-SDK/Wallet/Sprites/StealthUnitySDK-Wallet.png)
 
-https://www.youtube.com/watch?v=P87PanqQ6WM
+https://www.youtube.com/watch?v=P87PanqQ6WM 
