@@ -47,4 +47,5 @@ sysinfo.txt
 crashlytics-build.properties
 
 Assets/TextMesh Pro/
-
+/[Aa]ssets/TextMesh Pro.meta
+/[Aa]ssets/Readme.txt*
